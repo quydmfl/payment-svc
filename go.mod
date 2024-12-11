@@ -1,4 +1,4 @@
-module github.com/ankorstore/yokai-grpc-template
+module github.com/quydmfl/payment-svc
 
 go 1.23
 

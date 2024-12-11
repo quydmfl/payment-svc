@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ankorstore/yokai-grpc-template/cmd"
+	"github.com/quydmfl/payment-svc/cmd"
 )
 
 func main() {

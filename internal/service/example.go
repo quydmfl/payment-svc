@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ankorstore/yokai-grpc-template/proto"
+	"github.com/quydmfl/payment-svc/proto"
 	"github.com/ankorstore/yokai/config"
 	"github.com/ankorstore/yokai/log"
 	"github.com/ankorstore/yokai/trace"

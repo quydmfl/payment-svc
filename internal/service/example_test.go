@@ -6,8 +6,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/ankorstore/yokai-grpc-template/internal"
-	"github.com/ankorstore/yokai-grpc-template/proto"
+	"github.com/quydmfl/payment-svc/internal"
+	"github.com/quydmfl/payment-svc/proto"
 	"github.com/ankorstore/yokai/grpcserver/grpcservertest"
 	"github.com/ankorstore/yokai/log/logtest"
 	"github.com/ankorstore/yokai/trace/tracetest"

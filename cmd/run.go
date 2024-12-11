@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/ankorstore/yokai-grpc-template/internal"
+	"github.com/quydmfl/payment-svc/internal"
 	"github.com/spf13/cobra"
 )
 
